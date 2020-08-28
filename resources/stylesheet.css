@@ -79,6 +79,11 @@ a:visited {
 }
 
 
+td {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
 
 img {
   max-width: 90vw;
